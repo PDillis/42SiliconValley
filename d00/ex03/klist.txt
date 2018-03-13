@@ -1,0 +1,7 @@
+Credentials cache: API:32445
+        Principal: dporres@42.US.ORG
+
+  Issued                Expires               Principal
+Mar 12 16:55:20 2018  Mar 13 02:55:20 2018  krbtgt/42.US.ORG@42.US.ORG
+Mar 12 17:10:55 2018  Mar 13 02:55:20 2018  host/vgs-fn1.42.us.org@42.US.ORG
+Mar 12 18:59:20 2018  Mar 13 04:49:46 2018  ldap/ldap-proxy.42.us.org@42.US.ORG
