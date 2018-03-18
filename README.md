@@ -2,11 +2,11 @@
 
 A collection of (almost) all the code generated during the March 2018 Piscine.
 
-### Recommendation
+### Notes and Recommendations
 
-Use [42 Stupidity](https://github.com/mirror12k/42us-stupidity) for the exercises when starting to code in C!
+The final grade for each exercise will be given by the following <a href="https://www.codecogs.com/eqnedit.php?latex=\min(MGrade,&space;AVGrade)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\min(MGrade,&space;AVGrade)" title="\min(MGrade, AVGrade)" /></a>, where, if not clear enough, MGrade will be the grade given by Moulinette, and AVGrade will be the average of grades given by your peers (who corrected your exercises).
 
-The instructions are quite straightforward, but I will repost them here:
+For the exercises when starting to code in C, I advise you to use [42 Stupidity](https://github.com/mirror12k/42us-stupidity) ! The instructions are quite straightforward, but I will repost them here:
 
 1) Git clone the 42 Stupidity repository, then clone inside of it the work repository you wish to check.
 
@@ -15,4 +15,8 @@ The instructions are quite straightforward, but I will repost them here:
 4) Run `./tools/verify.sh` (this will run `Norminette` with the appropiate flags).
 5) Run `./tools/check_all.sh` (this will perform some tests on each function).
 
-If all goes well, it will display `good!` next to each exercise.
+Or, far simpler, use [Towel](https://github.com/oscardemadriz/towel), which will do all these things automatically for you.
+
+If all goes well, either method should display `good!` next to each exercise.AV
+
+Don't drown!
