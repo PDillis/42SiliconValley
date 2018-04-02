@@ -20,3 +20,7 @@ Or, far simpler, use [Towel](https://github.com/oscardemadriz/towel), which will
 If all goes well, either method should display `good!` next to each exercise.AV
 
 Don't drown!
+
+### License
+
+This work is published under the the terms of [42 Unlicense](https://github.com/PDillis/42SiliconValley/blob/master/LICENSE).
