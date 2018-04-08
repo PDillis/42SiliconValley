@@ -10,6 +10,11 @@ The final grade for each exercise will be given by the following: <a href="https
 
 For example, if Moulinette grades you 10, and the average grade you get from your peer revisions is 90, then your final grade will be 10 (note that the other way is also true). Another example is if Moulinette gives you a final grade of 50 and your peer revision average is 57, then your final grade will be 57, so the margin of difference for the minimum grade equation above is *suspected* to be 10 points.
 
+Here I present my final level and grades. For the latter, I won't specify what was caused by Moulinette and which were due to the peer evaluations:
+
+![final_level](https://user-images.githubusercontent.com/24496178/38461562-c0e72bac-3a88-11e8-9a98-b44cbaab6d62.PNG)
+![42projectlist](https://user-images.githubusercontent.com/24496178/38461558-ae420738-3a88-11e8-8ca1-6120832c9d51.PNG)
+
 ### Coding in C
 
 For the exercises when starting to code in C, I advise you to use [42 Stupidity](https://github.com/mirror12k/42us-stupidity). The instructions are quite straightforward, but I will repost them here:
@@ -27,7 +32,7 @@ If all goes well, either method should display `good!` next to each exercise.AV
 
 Finally, if this is your first time coding in general, then the mechanisms that are happening behind the scenes might seem too abstract at the beginning. For this I advise you to use the [C Tutor](http://pythontutor.com/c.html#mode=edit), where you can visualize each step the computer takes as it executes your code.
 
-Good luck, and don't drown!
+Good luck, have fun, and don't drown!
 
 ### License
 
