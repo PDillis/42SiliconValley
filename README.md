@@ -1,7 +1,8 @@
 # 42SiliconValley
 
 A collection of (almost) all the code generated during the March 2018 Piscine.
-*Final result:* **Accepted**
+
+*Final result:* **Accepted into 42 Silicon Valley**
 
 ## Notes and Recommendations
 
